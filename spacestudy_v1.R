@@ -1,3 +1,4 @@
+source(file="libanalysis_v1.r")
 lib <- importdata("libdata.csv")
 
 #May
